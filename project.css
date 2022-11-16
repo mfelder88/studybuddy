@@ -1,0 +1,102 @@
+#title{
+  background:linear-gradient(to bottom, #781C68 0%,#8758ff 100%)
+  }
+.container-fluid{ padding:3% 15% }
+h1{ font-family: 'montserrat',sans-serif;
+color:#ADDDD0;
+font-size:3rem;
+font-weight: bold;
+line-height:1.5 ;}
+.navbar{padding:0 0 4.5rem}
+h2{ color:#ADDDD0;
+font-family: 'GFS Neohellenic',sans-serif;
+font-weight: bold;
+font-size: 1.5;}
+
+h3{font-family: 'GFS Neohellenic',sans-serif;
+font-weight: bold; }
+p{ color:#B2B2B2}
+.navbar{
+padding: 0 0 4.5rem;
+}
+
+.navbar-brand{font-family:'ubuntu';
+font-size: 2.5rem;
+font-weight: bold;}
+
+.nav-item{padding: 0 18px ;}
+
+.nav-link{
+font-family:'GFS Neohellenic',sans-serif;
+font-size: 1.5rem;}
+
+.download-button{ margin:5% 5% 5% 0 }
+.title-image{width:60%;
+transform: rotate(20deg);}
+
+#features{padding:5% 15%}
+
+.feature-box{ text-align: center;
+padding:7%;}
+
+.icon{ color:#ADDDD0;
+margin:1rem;}
+
+.icon:hover{
+color:#781C68;}
+
+#testimonials{
+text-align:center;
+background-color:#8758FF;}
+
+.carousel-item {
+padding:7% 15%}
+
+.testimonial-image{
+width:15%;
+border-radius:50%;
+margin:20px;}
+
+#press{background-color:#8758FF;
+text-align: center;}
+
+.press-logo{ width:10%;
+margin:10px 20px 50px;}
+
+.noth2{color:#3C4048;
+text-align:center;
+font-family:'GFS Neohellenic',sans-serif;
+font-weight: bold;}
+
+p{text-align:center;
+font-family:'GFS Neohellenic',sans-serif; }
+
+#pricing{ font-family:'GFS Neohellenic',sans-serif;
+padding:7% 10%;
+}
+
+#cta{text-align:center;
+padding:7% 15%;
+background-color: #8758FF;
+color:#ADDDD0;
+}
+.cta-heading{
+font-family: 'GFS Neohellenic',sans-serif;
+font-weight:bold;
+font-size:3.5rem;
+line-height:1.5;}
+
+#footer{
+padding:7% 15%;
+text-align: center;}
+
+.social-icon {margin: 20px 5px;}
+
+
+
+@media screen and (max-width:1028px){ #title {
+text-align:center;}
+h1{text-align:center;}
+.title-image{ position:static;
+  transform:rotate(0);}}
+
